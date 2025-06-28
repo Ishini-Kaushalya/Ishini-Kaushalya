@@ -29,8 +29,7 @@
 </div>
 
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-```
-```
+---
 ## **🛠️ Tech Stack**  
 
 ### **💻 Programming Languages**  
@@ -102,5 +101,5 @@
 ---
 
 🌟 **Thanks for stopping by!** Feel free to explore my repositories and reach out for collaborations! 🚀
-```
+
 
