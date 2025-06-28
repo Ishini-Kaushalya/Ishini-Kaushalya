@@ -1,8 +1,24 @@
+# **Ishini Kaushalya** 🌟  
+### **Software Engineer | Full-Stack Developer | Data Science Enthusiast**  
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ishini-kaushalya.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishini_Kaushalya-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishini-kaushalya-519507320)
+[![GitHub](https://img.shields.io/badge/GitHub-Ishini_Kaushalya-181717?style=for-the-badge&logo=github)](https://github.com/Ishini-Kaushalya)
+[![Gmail](https://img.shields.io/badge/Gmail-amikaushalya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amikaushalya@gmail.com)
+
+
+</div>
+
+---
 
 ## **🚀 About Me**
 
-<div align="center">
-
+<table>
+  <tr>
+    <td width="70%">
+      
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=FFD700&width=500&lines=Hello+World!;Hi+%F0%9F%91%8B+I'm+Ishini;Software+Engineer;Data+Science+Enthusiast)
 
 | **Category**       | **Details**                                                                 |
@@ -11,11 +27,20 @@
 | **🔧 Skills**      | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) |
 | **🎓 Education**   | BSc (Hons) Computer Science @ University of Kelaniya (GPA: 3.81/4.0)        |
 | **❤️ Interests**   | Coding • AI/ML • UI/UX Design • Chess Playing                               |
-
-</div>
+      
+    </td>
+    <td width="30%">
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID" width="200" style="border-radius:50%;box-shadow:0 0 10px rgba(0,0,0,0.2);"/>
+        <br>
+        ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Ishini-Kaushalya.Ishini-Kaushalya)
+      </div>
+    </td>
+  </tr>
+</table>
 
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
----
+
 ## **🛠️ Tech Stack**  
 
 ### **💻 Programming Languages**  
@@ -45,32 +70,30 @@
 
 ---
 
-
-
 ## **📊 GitHub Stats & Activity**  
 
 <div align="center">
   
 ![Ishini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishini-Kaushalya&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishini-Kaushalya&layout=compact&theme=radical&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ishini-Kaushalya&theme=radical&hide_border=true)   ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Ishini-Kaushalya.Ishini-Kaushalya)  
-</div>
-
-
-
-## **🌟 Let’s Connect!**  
-
-<div align="center">
- 
-[![GitHub](https://img.shields.io/badge/GitHub-Ishini_Kaushalya-181717?style=for-the-badge&logo=github)](https://github.com/Ishini-Kaushalya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishini_Kaushalya-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishini-kaushalya-519507320)
-[![Gmail](https://img.shields.io/badge/Gmail-amikaushalya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amikaushalya@gmail.com)
- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ishini-kaushalya.github.io/)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ishini-Kaushalya&theme=radical&hide_border=true)  
 
 </div>
 
 ---
 
+## **🌟 Let's Connect!**  
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-Ishini_Kaushalya-181717?style=for-the-badge&logo=github)](https://github.com/Ishini-Kaushalya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishini_Kaushalya-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishini-kaushalya-519507320)
+[![Gmail](https://img.shields.io/badge/Gmail-amikaushalya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amikaushalya@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ishini-kaushalya.github.io/)
+
+</div>
+
+---
 
 ### **⚡ Fun Fact**  
 *"I once debugged code in my dreams! 💭👩‍💻"*  
@@ -78,5 +101,3 @@
 ---
 
 🌟 **Thanks for stopping by!** Feel free to explore my repositories and reach out for collaborations! 🚀
-
-
