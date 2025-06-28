@@ -27,10 +27,10 @@
 | **🔧 Skills**      | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) |
 | **🎓 Education**   | BSc (Hons) Computer Science @ University of Kelaniya (GPA: 3.81/4.0)        |
 | **❤️ Interests**   | Coding • AI/ML • UI/UX Design • Chess Playing                               |
-    </td>
+   </td>
     <td width="30%">
       <div align="center">
-        <img src="https://avatars.githubusercontent.com/u/https://avatars.githubusercontent.com/u/186543082?s=400&u=a01478a0762b49ccb31ced25f834fb5ca0c80419&v=4" width="200" style="border-radius:50%;box-shadow:0 0 10px rgba(0,0,0,0.2);"/>
+        <img src="https://avatars.githubusercontent.com/u/186543082?v=4" width="200" style="border-radius:50%;box-shadow:0 0 10px rgba(0,0,0,0.2);"/>
         <br>
         ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Ishini-Kaushalya.Ishini-Kaushalya)
       </div>
