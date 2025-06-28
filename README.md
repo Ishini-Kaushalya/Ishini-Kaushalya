@@ -88,7 +88,7 @@
 
 <div align="center">
   
-![Snake Animation](https://raw.githubusercontent.com/Ishini-Kaushalya/Ishini-Kaushalya/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/Ishini-Kaushalya/Ishini-Kaushalya/blob/main/assets/github-contribution-grid-snake.svg)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Ishini-Kaushalya.Ishini-Kaushalya)  
 
 </div>
