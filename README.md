@@ -61,24 +61,7 @@ print(me.say_hello())
 
 ---
 
-## **🔥 Featured Projects**  
 
-### **1. 🎨 Digital Art Gallery**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-- Microservices-based API architecture  
-- Secure user/admin operations (browsing, purchasing, management)  
-
-### **2. 🍕 Pizza Delivery App**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
-- User-friendly order customization & delivery tracking  
-- Secure authentication & admin dashboard  
-
-### **3. 🎬 Netflix Clone**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-- Stripe payment integration  
-- User & admin dashboards  
-
----
 
 ## **📊 GitHub Stats & Activity**  
 
@@ -90,15 +73,7 @@ print(me.say_hello())
 
 </div>
 
----
 
-## **📜 Certifications & Achievements**  
-
-- **Python for Beginners** – University of Moratuwa  
-- **Dean’s List Awards** – University of Kelaniya (GPA: 3.81/4.0)  
-- **Secretary of AWS Cloud Club – UOK** (2023-Present)  
-
----
 
 ## **🌟 Let’s Connect!**  
 
