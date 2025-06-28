@@ -13,7 +13,7 @@
 | **❤️ Interests**   | Coding • AI/ML • UI/UX Design • Chess Playing                               |
 
 </div>
-<br> ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Ishini-Kaushalya.Ishini-Kaushalya)  
+
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ---
 ## **🛠️ Tech Stack**  
@@ -53,8 +53,7 @@
   
 ![Ishini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishini-Kaushalya&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishini-Kaushalya&layout=compact&theme=radical&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ishini-Kaushalya&theme=radical&hide_border=true)  
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ishini-Kaushalya&theme=radical&hide_border=true)   ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Ishini-Kaushalya.Ishini-Kaushalya)  
 </div>
 
 
