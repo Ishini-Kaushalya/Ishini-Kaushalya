@@ -61,11 +61,11 @@
 ## **🌟 Let’s Connect!**  
 
 <div align="center">
- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ishini-kaushalya.github.io/) 
+ 
 [![GitHub](https://img.shields.io/badge/GitHub-Ishini_Kaushalya-181717?style=for-the-badge&logo=github)](https://github.com/Ishini-Kaushalya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishini_Kaushalya-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishini-kaushalya-519507320)
 [![Gmail](https://img.shields.io/badge/Gmail-amikaushalya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amikaushalya@gmail.com)
-
+ [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ishini-kaushalya.github.io/)
 
 </div>
 
