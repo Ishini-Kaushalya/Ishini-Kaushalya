@@ -13,10 +13,9 @@
 </div>
 
 ---
-
 ## **🚀 About Me**  
 
-
+```python
 class Ishini:
     def __init__(self):
         self.name = "Ishini Kaushalya"
@@ -27,7 +26,7 @@ class Ishini:
     
     def say_hello(self):
         return "Thanks for visiting my GitHub! Let's build something amazing together! 👩‍💻"
-    
+
 me = Ishini()
 print(me.say_hello())
 
