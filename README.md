@@ -13,41 +13,22 @@
 </div>
 
 ---
-## **🚀 About Me**  
-
-```html
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%20World!%22);System.out.println(%22Hi%20👋%22);print(%22I'm%20Ishini%22)&center=true&size=18" alt="Typing Animation" />
-</div>
+## **🚀 About Me**
 
 <div align="center">
-  <table>
-    <tr>
-      <td><b>🎯 Role</b></td>
-      <td>Software Engineer</td>
-    </tr>
-    <tr>
-      <td><b>🔧 Skills</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>🎓 Education</b></td>
-      <td>BSc (Hons) Computer Science @ University of Kelaniya (GPA: 3.81/4.0)</td>
-    </tr>
-    <tr>
-      <td><b>❤️ Interests</b></td>
-      <td>Coding • AI/ML • UI/UX Design • Open Source</td>
-    </tr>
-  </table>
+
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=FFD700&width=500&lines=Hello+World!;Hi+%F0%9F%91%8B+I'm+Ishini;Software+Engineer;Data+Science+Enthusiast)
+
+| **Category**       | **Details**                                                                 |
+|--------------------|-----------------------------------------------------------------------------|
+| **🎯 Role**        | Software Engineer                                                           |
+| **🔧 Skills**      | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) |
+| **🎓 Education**   | BSc (Hons) Computer Science @ University of Kelaniya (GPA: 3.81/4.0)        |
+| **❤️ Interests**   | Coding • AI/ML • UI/UX Design • Open Source                                 |
+
 </div>
 
-<!-- Animated divider -->
-<img src="https://github.com/Ishini-Kaushalya/Ishini-Kaushalya/blob/main/images/dino.gif" width="100%" alt="divider" />
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ```
 ## **🛠️ Tech Stack**  
 
