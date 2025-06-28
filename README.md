@@ -21,10 +21,10 @@
 
 | **Category**       | **Details**                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
-| **🎯 Role**        | Software Engineer                                                           |
+| **🎯 Role**        | Undergraduate                                                               |
 | **🔧 Skills**      | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) |
 | **🎓 Education**   | BSc (Hons) Computer Science @ University of Kelaniya (GPA: 3.81/4.0)        |
-| **❤️ Interests**   | Coding • AI/ML • UI/UX Design • Open Source                                 |
+| **❤️ Interests**   | Coding • AI/ML • UI/UX Design • Chess Playing                               |
 
 </div>
 
@@ -88,7 +88,7 @@
 
 <div align="center">
   
-![Snake Animation](https://github.com/Ishini-Kaushalya/Ishini-Kaushalya/blob/output/github-contribution-grid-snake.svg)  
+![Snake Animation](https://raw.githubusercontent.com/Ishini-Kaushalya/Ishini-Kaushalya/output/github-contribution-grid-snake.svg)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Ishini-Kaushalya.Ishini-Kaushalya)  
 
 </div>
