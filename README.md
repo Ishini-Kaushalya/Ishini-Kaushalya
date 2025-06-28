@@ -15,22 +15,40 @@
 ---
 ## **🚀 About Me**  
 
-```python
-class Ishini:
-    def __init__(self):
-        self.name = "Ishini Kaushalya"
-        self.role = "Software Engineer"
-        self.skills = ["Java", "Python", "React", "Spring Boot", "Data Science"]
-        self.education = "BSc (Hons) in Computer Science @ University of Kelaniya (GPA: 3.81/4.0)"
-        self.hobbies = ["Coding", "AI/ML", "UI/UX Design", "Open Source"]
-    
-    def say_hello(self):
-        return "Thanks for visiting my GitHub! Let's build something amazing together! 👩‍💻"
+```html
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%20World!%22);System.out.println(%22Hi%20👋%22);print(%22I'm%20Ishini%22)&center=true&size=18" alt="Typing Animation" />
+</div>
 
-me = Ishini()
-print(me.say_hello())
+<div align="center">
+  <table>
+    <tr>
+      <td><b>🎯 Role</b></td>
+      <td>Software Engineer</td>
+    </tr>
+    <tr>
+      <td><b>🔧 Skills</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>🎓 Education</b></td>
+      <td>BSc (Hons) Computer Science @ University of Kelaniya (GPA: 3.81/4.0)</td>
+    </tr>
+    <tr>
+      <td><b>❤️ Interests</b></td>
+      <td>Coding • AI/ML • UI/UX Design • Open Source</td>
+    </tr>
+  </table>
+</div>
 
-
+<!-- Animated divider -->
+<img src="https://github.com/Ishini-Kaushalya/Ishini-Kaushalya/blob/main/images/dino.gif" width="100%" alt="divider" />
+```
 ## **🛠️ Tech Stack**  
 
 ### **💻 Programming Languages**  
