@@ -1,18 +1,4 @@
 
-# **Ishini Kaushalya** 🌟  
-### **Software Engineer | Full-Stack Developer | Data Science Enthusiast**  
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ishini-kaushalya.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishini_Kaushalya-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishini-kaushalya-519507320)
-[![GitHub](https://img.shields.io/badge/GitHub-Ishini_Kaushalya-181717?style=for-the-badge&logo=github)](https://github.com/Ishini-Kaushalya)
-[![Gmail](https://img.shields.io/badge/Gmail-amikaushalya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amikaushalya@gmail.com)
-<br> ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Ishini-Kaushalya.Ishini-Kaushalya)  
-
-</div>
-
----
 ## **🚀 About Me**
 
 <div align="center">
@@ -27,7 +13,7 @@
 | **❤️ Interests**   | Coding • AI/ML • UI/UX Design • Chess Playing                               |
 
 </div>
-
+<br> ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Ishini-Kaushalya.Ishini-Kaushalya)  
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ---
 ## **🛠️ Tech Stack**  
@@ -76,11 +62,11 @@
 ## **🌟 Let’s Connect!**  
 
 <div align="center">
-  
+ [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ishini-kaushalya.github.io/) 
 [![GitHub](https://img.shields.io/badge/GitHub-Ishini_Kaushalya-181717?style=for-the-badge&logo=github)](https://github.com/Ishini-Kaushalya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishini_Kaushalya-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishini-kaushalya-519507320)
 [![Gmail](https://img.shields.io/badge/Gmail-amikaushalya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amikaushalya@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94767719711)
+
 
 </div>
 
