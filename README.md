@@ -32,7 +32,7 @@
       <div align="center">
         <img src="https://avatars.githubusercontent.com/u/186543082?v=4" width="200" style="border-radius:50%;box-shadow:0 0 10px rgba(0,0,0,0.2);"/>
         <br>
-        ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Ishini-Kaushalya.Ishini-Kaushalya)
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=Ishini-Kaushalya.Ishini-Kaushalya" alt="Visitor Count"/>
       </div>
     </td>
   </tr>
