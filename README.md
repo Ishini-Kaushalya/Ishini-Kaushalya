@@ -27,7 +27,6 @@
 | **🔧 Skills**      | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) |
 | **🎓 Education**   | BSc (Hons) Computer Science @ University of Kelaniya (GPA: 3.81/4.0)        |
 | **❤️ Interests**   | Coding • AI/ML • UI/UX Design • Chess Playing                               |
-      
     </td>
     <td width="30%">
       <div align="center">
