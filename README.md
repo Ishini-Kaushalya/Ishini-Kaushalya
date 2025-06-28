@@ -31,7 +31,7 @@
     </td>
     <td width="30%">
       <div align="center">
-        <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID" width="200" style="border-radius:50%;box-shadow:0 0 10px rgba(0,0,0,0.2);"/>
+        <img src="https://avatars.githubusercontent.com/u/https://avatars.githubusercontent.com/u/186543082?s=400&u=a01478a0762b49ccb31ced25f834fb5ca0c80419&v=4" width="200" style="border-radius:50%;box-shadow:0 0 10px rgba(0,0,0,0.2);"/>
         <br>
         ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Ishini-Kaushalya.Ishini-Kaushalya)
       </div>
